@@ -27,7 +27,7 @@ Here are the dataset :
 4. Business Solutions
 
 ## Result
-For the result, please kindly check my source code!
+For the result, please kindly check my source code and overview in pdf!
 
 ## References
 https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
