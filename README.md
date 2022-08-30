@@ -31,4 +31,5 @@ For the result, please kindly check my source code!
 
 ## References
 https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
+
 https://www.kaggle.com/code/moatazbellahahmed/stores-sales-prediction-eda 
